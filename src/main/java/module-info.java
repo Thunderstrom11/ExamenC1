@@ -10,4 +10,6 @@ module ni.edu.uam.examenc1 {
     opens ni.edu.uam.examenc1.controller to javafx.fxml;
     exports ni.edu.uam.examenc1.application;
     opens ni.edu.uam.examenc1.application to javafx.fxml;
+    exports ni.edu.uam.examenc1.model;
+    opens ni.edu.uam.examenc1.model to javafx.base;
 }
