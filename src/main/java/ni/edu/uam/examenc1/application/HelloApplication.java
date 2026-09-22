@@ -1,4 +1,4 @@
-package ni.edu.uam.examenc1;
+package ni.edu.uam.examenc1.application;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
